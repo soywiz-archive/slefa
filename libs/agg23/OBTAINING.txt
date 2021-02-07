@@ -1,0 +1,7 @@
+Direct download for AGG 2.3 (as of writing this) is:
+http://www.antigrain.com/agg23.zip
+
+Just unzip the contents of the package. It will be included as a part of the
+build in the test application.
+
+You may try to use a newer version as well if available.

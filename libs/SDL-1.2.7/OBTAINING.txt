@@ -1,0 +1,7 @@
+Direct download for SDL 1.2.7 (as of writing this) is:
+http://www.libsdl.org/release/SDL-devel-1.2.7-VC6.zip
+
+No building is necassary, just unzip the contents of the package. You will need
+to copy SDL.dll from libs directory to the executable directory.
+
+You may try to use a newer version as well if available.

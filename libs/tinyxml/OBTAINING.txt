@@ -1,0 +1,7 @@
+Direct download for TinyXML 2.3.2 (as of writing this) is:
+http://downloads.sourceforge.net/tinyxml/tinyxml_2_3_2.zip
+
+Unzip the package, build the library in Release mode, and copy tinyxml.lib from
+the Release directory to this directory.
+
+You may try to use a newer version as well if available.

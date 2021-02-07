@@ -1,0 +1,12 @@
+2007-08-03 Release 1.01
+
+- Added yet another test data set; polygons from Zack Rusin's QT performance
+  test (from http://ktown.kde.org/~zrusin/complex.data). These can be enabled
+  by setting define QT_POLYGON_TEST in the TestApp[AGG|GDIplus].cpp and
+  define INCLUDE_QT_DATA in TestPattern.c.
+
+- A debug define (SUBPOLYGON_DEBUG) in subPolygon.h was accidentally left
+  enabled. This caused some slowdown.
+  
+- An optimization define (USE_ASM_OPTIMIZATIONS) was accidentally disabled.
+  This caused some slowdown as well.
